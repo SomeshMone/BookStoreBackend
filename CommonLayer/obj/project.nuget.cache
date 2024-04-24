@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWgijCx84uksKBjjb4Y0/wZU5XsasV9M6/7h4sNxiyODRq1jDLWnoQ5cQWp5h2Dg03zQ/SLvYL3UtKJT14mTrg==",
+  "success": true,
+  "projectFilePath": "C:\\Programs\\BookStore\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\somesh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\somesh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\somesh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
